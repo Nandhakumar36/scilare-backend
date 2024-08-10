@@ -1,0 +1,15 @@
+{
+  "application": {
+    "port": 5005,
+    "jwt": {
+      "key": "f122c9aea4b0bb49b356ff36d5b81e96bf6c1218uf76256b4a4aa6500f9a6fe7"
+    }
+  },
+  "tenants": [
+    {
+      "tenantName": "Demo",
+      "tenantId": "demo",
+      "databaseURL": "mongodb+srv://Nandhakumar:Nandha%4096@nandhadev.4lilb.mongodb.net/test"
+    } 
+  ] 
+}
